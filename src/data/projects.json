@@ -1,27 +1,27 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Portfolio Website",
+      "imageSrc": "projects/portfolio1.webp",
+      "description": "This is a project made to showcase my portfolio by building an online app.",
+      "skills": ["React", "CSS", "Node"],
+      "demo": "https://amitesh-sharma-portfolio.netlify.app/",
+      "source": "https://github.com/Coder1407/Portfolio"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Netflix Clone",
+      "imageSrc": "projects/Netflix.png",
+      "description": "A website mimicking the design and functionality of Netflix.",
+      "skills": ["HTML", "CSS", "Node"],
+      "demo": "https://netflix-amitesh.netlify.app/",
+      "source": "https://github.com/Coder1407/Netflix"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Weather App",
+      "imageSrc": "projects/weather.png",
+      "description": "A website providing weather conditions for specific locations.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://weatherapi-amitesh.netlify.app/",
+      "source": "https://github.com/Coder1407/WeatherApp"
     }
   ]
   

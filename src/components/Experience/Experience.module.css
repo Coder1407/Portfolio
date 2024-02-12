@@ -48,6 +48,7 @@
   
   .skillImageContainer img {
     width: 75px;
+    object-fit: contain;
   }
   
   .skill p {
@@ -76,6 +77,7 @@
   
   .historyItem img {
     width: 50px;
+    object-fit: contain;
   }
   
   .historyItemDetails {
