@@ -8,12 +8,12 @@
       "source": "https://github.com/Coder1407/Portfolio"
     },
     {
-      "title": "Netflix Clone",
-      "imageSrc": "projects/Netflix.png",
-      "description": "A website mimicking the design and functionality of Netflix.",
-      "skills": ["HTML", "CSS", "Node"],
-      "demo": "https://netflix-amitesh.netlify.app/",
-      "source": "https://github.com/Coder1407/Netflix"
+      "title": "Expense Tracker",
+      "imageSrc": "projects/expense.jpeg",
+      "description": "This project allows you to enter your transactions and manage your balance.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://expensetracker-amitesh.netlify.app/",
+      "source": "https://github.com/Coder1407/Expense-Tracker-JS"
     },
     {
       "title": "Weather App",
